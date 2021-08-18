@@ -1,1 +1,3 @@
 # github_study
+
+こんにちは！
